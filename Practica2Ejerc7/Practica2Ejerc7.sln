@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiReservas", "ApiReservas\ApiReservas.csproj", "{9468EC7D-8BED-46D6-A8BF-6CDB41DC247E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9468EC7D-8BED-46D6-A8BF-6CDB41DC247E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9468EC7D-8BED-46D6-A8BF-6CDB41DC247E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9468EC7D-8BED-46D6-A8BF-6CDB41DC247E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9468EC7D-8BED-46D6-A8BF-6CDB41DC247E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26ADC71C-7B67-48B7-8CC9-398E8277408B}
+	EndGlobalSection
+EndGlobal
